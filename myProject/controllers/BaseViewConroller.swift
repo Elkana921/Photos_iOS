@@ -1,5 +1,4 @@
 
-
 import UIKit
 import PKHUD
 import CoreLocation
@@ -10,6 +9,7 @@ private let segueIdentifier = "mySegue"
 
 class BaseViewContoller: UIViewController {
     
+    let String = "Elkana"
     
     //MARK: - Properties:
     var results:[Results] = []
