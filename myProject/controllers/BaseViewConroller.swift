@@ -8,9 +8,7 @@ private let reuseIdentifier = "cellColleciton"
 private let segueIdentifier = "mySegue"
 
 class BaseViewContoller: UIViewController {
-    
-    let String = "Elkana"
-    
+        
     //MARK: - Properties:
     var results:[Results] = []
     let ds = PhotosDS()
